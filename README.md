@@ -33,3 +33,7 @@ Anyway, heres what a uniform 256 palette looks like, using the color organizing 
 And this is the LUT for that palette:
 
 ![palette generator image](palette_lut.png)
+
+And a nice graph:
+
+![graph](distribution.png)
